@@ -1,4 +1,4 @@
-<h2 align="center">My stack:</h2>
+<h2 align="center">my stack:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
